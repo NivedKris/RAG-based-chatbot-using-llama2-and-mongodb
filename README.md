@@ -53,7 +53,7 @@ To handle the requirements for equipping the RAG application with the capabiliti
    {
      "fields": [
        {
-         "numDimensions": 1536,
+         "numDimensions": 786,
          "path": "embedding",
          "similarity": "cosine",
          "type": "vector"
