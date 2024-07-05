@@ -5,6 +5,9 @@ This project implements a RAG (Retrieval-Augmented Generation) based chatbot usi
 
 Using a GPU environment is recommended for this project
 
+
+## Architecture
+![alt text]([https://drive.google.com/file/d/1zHmKNlafP0111hLagoFz8bJvgN7GVzoU/view?usp=sharing])
 ## Features
 
 ### Chatbot Capabilities
