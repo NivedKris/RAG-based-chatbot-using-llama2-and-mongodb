@@ -114,5 +114,11 @@ To handle the requirements for equipping the RAG application with the capabiliti
    python upload_documents.py
    ```
 
-## Conclusion
-By following these steps, you will set up and run a RAG-based chatbot with Llama2 and MongoDB, equipped with the capabilities of storing and retrieving conversation history and processing PDF documents for augmented generation.
+
+
+
+## Contributions
+
+Any contribution or further development to the architecture is highly appreciated
+
+[Nived Krishna](nithupd@gmail.com)
