@@ -8,7 +8,7 @@ Using a GPU environment is recommended for this project
 ## Features
 
 ### Chatbot Capabilities
-- **Language Model**: Utilizes Llama2 running on a local machine via Ollama for generating responses.
+- **Large Language Model**: Utilizes Llama2 running on a local machine via Ollama for generating responses.
 - **Session Management**: Manages user sessions and chat history using MongoDB.
 - **User Management**: Supports user registration and login.
 - **Personalized Responses**: Provides personalized responses based on user history and previous interactions.
