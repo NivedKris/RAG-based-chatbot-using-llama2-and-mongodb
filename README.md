@@ -7,7 +7,8 @@ Using a GPU environment is recommended for this project
 
 
 ## Architecture
-![alt text](https://drive.google.com/file/d/1zHmKNlafP0111hLagoFz8bJvgN7GVzoU/view?usp=sharing)
+![Screenshot from 2024-07-05 13-59-06](https://github.com/NivedKris/RAG-based-chatbot-using-llama2-and-mongodb/assets/100478612/31b9502b-e4bb-45dc-9188-3f1edb4fb5a7)
+
 ## Features
 
 ### Chatbot Capabilities
