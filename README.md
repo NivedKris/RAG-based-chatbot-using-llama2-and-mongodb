@@ -121,4 +121,4 @@ To handle the requirements for equipping the RAG application with the capabiliti
 
 Any contribution or further development to the architecture is highly appreciated
 
-[Nived Krishna](nithupd@gmail.com)
+[[Nived krishna](mailto:nithupd@gmail.com)]
